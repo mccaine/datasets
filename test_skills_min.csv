@@ -1,0 +1,36 @@
+title_id,title_name,skill_id,skill_name,weight_id,weight_name,weight_value
+11-1011.00,Chief Executives,2.A.1.a,Reading Comprehension,IM,Importance,4.12
+11-1011.00,Chief Executives,2.A.1.b,Active Listening,IM,Importance,4.12
+11-1011.00,Chief Executives,2.A.1.c,Writing,IM,Importance,4
+11-1011.00,Chief Executives,2.A.1.d,Speaking,IM,Importance,4.38
+11-1011.00,Chief Executives,2.A.1.e,Mathematics,IM,Importance,3.25
+11-1011.00,Chief Executives,2.A.1.f,Science,IM,Importance,1.88
+11-1011.00,Chief Executives,2.A.2.a,Critical Thinking,IM,Importance,4.38
+11-1011.00,Chief Executives,2.A.2.b,Active Learning,IM,Importance,4
+11-1011.00,Chief Executives,2.A.2.c,Learning Strategies,IM,Importance,3.12
+11-1011.00,Chief Executives,2.A.2.d,Monitoring,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.1.a,Social Perceptiveness,IM,Importance,4.25
+11-1011.00,Chief Executives,2.B.1.b,Coordination,IM,Importance,4.25
+11-1011.00,Chief Executives,2.B.1.c,Persuasion,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.1.d,Negotiation,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.1.e,Instructing,IM,Importance,3.12
+11-1011.00,Chief Executives,2.B.1.f,Service Orientation,IM,Importance,3.12
+11-1011.00,Chief Executives,2.B.2.i,Complex Problem Solving,IM,Importance,4.38
+11-1011.00,Chief Executives,2.B.3.a,Operations Analysis,IM,Importance,3.12
+11-1011.00,Chief Executives,2.B.3.b,Technology Design,IM,Importance,1.75
+11-1011.00,Chief Executives,2.B.3.c,Equipment Selection,IM,Importance,1.12
+11-1011.00,Chief Executives,2.B.3.d,Installation,IM,Importance,1
+11-1011.00,Chief Executives,2.B.3.e,Programming,IM,Importance,1.62
+11-1011.00,Chief Executives,2.B.3.g,Operation Monitoring,IM,Importance,1.88
+11-1011.00,Chief Executives,2.B.3.h,Operation and Control,IM,Importance,1.75
+11-1011.00,Chief Executives,2.B.3.j,Equipment Maintenance,IM,Importance,1
+11-1011.00,Chief Executives,2.B.3.k,Troubleshooting,IM,Importance,1
+11-1011.00,Chief Executives,2.B.3.l,Repairing,IM,Importance,1
+11-1011.00,Chief Executives,2.B.3.m,Quality Control Analysis,IM,Importance,1.75
+11-1011.00,Chief Executives,2.B.4.e,Judgment and Decision Making,IM,Importance,4.5
+11-1011.00,Chief Executives,2.B.4.g,Systems Analysis,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.4.h,Systems Evaluation,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.5.a,Time Management,IM,Importance,4
+11-1011.00,Chief Executives,2.B.5.b,Management of Financial Resources,IM,Importance,4.12
+11-1011.00,Chief Executives,2.B.5.c,Management of Material Resources,IM,Importance,3.88
+11-1011.00,Chief Executives,2.B.5.d,Management of Personnel Resources,IM,Importance,4.25
